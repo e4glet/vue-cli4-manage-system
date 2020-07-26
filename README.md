@@ -8,7 +8,7 @@
   <a href="https://github.com/ElemeFE/element">
     <img src="https://img.shields.io/badge/element--ui-2.13.2-brightgreen.svg" alt="element-ui">
   </a>
-  <a href="https://gitee.com/e4glet/vue-cli4-framwork/blob/master/LICENSE">
+  <a href="https://github.com/e4glet/vue-cli4-manage-system/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 
