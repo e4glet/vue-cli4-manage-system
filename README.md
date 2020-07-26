@@ -2,9 +2,9 @@
 
 # Vue4 manager system
 
-<a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/vue-4.4.6-brightgreen.svg" alt="vue">
-  </a><img src="https://img.shields.io/badge/element--ui-2.13.2-brightgreen.svg" alt="element-ui"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
+<img src="https://img.shields.io/badge/vue-4.4.6-brightgreen.svg" alt="vue">
+<img src="https://img.shields.io/badge/element--ui-2.13.2-brightgreen.svg" alt="element-ui">
+<img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
  
 
 ### 介绍
